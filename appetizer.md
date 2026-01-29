@@ -14,9 +14,9 @@
 
 * Garnish: paprika (optional)
 
-1: boil eggs
+1. boil eggs
 
-2: make ice bath
+2. make ice bath
 
 3. chill eggs
 
@@ -29,3 +29,4 @@
 7. fill egg
 
 https://www.southernliving.com/recipes/classic-deviled-eggs
+

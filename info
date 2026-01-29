@@ -23,10 +23,10 @@ System Locale:                 en-us;English (United States)
 Input Locale:                  en-us;English (United States)
 Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
 Total Physical Memory:         8,029 MB
-Available Physical Memory:     1,122 MB
+Available Physical Memory:     1,062 MB
 Virtual Memory: Max Size:      25,437 MB
-Virtual Memory: Available:     8,775 MB
-Virtual Memory: In Use:        16,662 MB
+Virtual Memory: Available:     8,654 MB
+Virtual Memory: In Use:        16,783 MB
 Page File Location(s):         C:\pagefile.sys
 Domain:                        WORKGROUP
 Logon Server:                  \\RAZ0

@@ -1,2 +1,2 @@
-\*\*Created by:\*\* Fazil Vural
+**Created by:** Fazil Vural
 
